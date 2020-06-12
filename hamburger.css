@@ -1,35 +1,35 @@
-    #navbar {
+#navbar {
     background: white;
     height: 100vh;
     width: 100%;
     flex-direction: column;
     text-align: center;
     transition: all 0.3s ease-in-out;
-  }
-    #txt-logo {
+}
+#txt-logo {
     position: relative;
     top: -40%;
     transition: all 0.3s ease-in-out;
-  }
-    #nav-left,
-  #nav-right {
+}
+#nav-left,
+#nav-right {
     text-align: center;
     position: relative;
     transition: all 0.3s ease-in-out;
-  }
-    .navs {
+}
+.navs {
     display: flex;
     flex-direction: column;
     background: white;
-  }
-    .navs a {
+}
+.navs a {
     font-size: 1.8rem;
     text-align: center;
     margin: 10% 0;
-  }
-    #nav-left {
+}
+#nav-left {
     top: 0%;
-  }
-    #nav-right {
+}
+#nav-right {
     top: -10%;
-  }
+}
